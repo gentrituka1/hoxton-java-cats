@@ -16,4 +16,4 @@ public class Cat {
             System.out.printf("My name is %s, I am %s years old and I don't like cuddles!\n", name, age); 
         }
     }
-}
+}             
